@@ -1,0 +1,6 @@
+Yassine|Java|true
+Khadija|DotNet|false
+Meryam LAARAJ|Java|true
+Reda|DotNet|true
+Fatty|Java|true
+Hassan|DotNet|false
